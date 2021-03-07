@@ -12,7 +12,7 @@ class News {
         this.modified = true;
     }
 
-    // WRONG Principle usage
+    // WRONG Principle usage: Every class should has its own logic
     // toHtml() {
     //     return `
     //         <div class="news">

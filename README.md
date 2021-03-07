@@ -21,3 +21,7 @@ Client should not depend on interface/methods which it is not using.
 ### Dependency Inversion Principle
 
 High-level modules (e.g. business logic) should not depend on low-level modules (e.g. database operations or I/O). Both should depend on abstractions. Abstractions should not depend on de- tails. Details should depend on abstractions.
+
+---
+Project is based on youtube video lession [SOLID Principles in JavaScript ](https://youtu.be/xq13wiqvcTc) by Vladilen Minin
+
